@@ -1,0 +1,64 @@
+Q1. What is Statistics?
+=  statistics is the science of collecting, organizing and analyzing data.
+
+Q2. Define the different types of statistics and give an example of when each type might be used.
+=  Types of statistics 
+(1) Descriptive Statistics : It consists of organizing and summarizing data. example : histogram, pdf, pmf. 
+(2) Inferantial Statistics : It consists of using data you have measured to form conclusion. Exapmle : hypothesis testing, h0,h1 value.
+
+Q3. What are the different types of data and how do they differ from each other? Provide an example of each type of data.
+=  Types of data : (1) Nominal Scale Data(Categorical values , order does not matter) Example :Fav Color red = 5 green = 10 orange = 6 
+(2) Ordinal Scale Data(Ranking is important, Order matter, Difference caonnot be measured) Example : (i) good(ii) bad (iii) best 
+(3) Interval scale data : (Order matter, Difference can be measured, Ratio can't be measured, No true 'o' starting point) Example : Temp Variable 30F 60F 90F 120F 
+(3) Ratio scale data (The order is matter, diff are measurable(including ratio), it contains '0' starting point) Example : student marks inn a class 90,60,30,75,40,50 accending order 30,40,50,60,75,90 ratio : 90/30 = 3:1 it means someone got 3 times more marks than anyone.
+
+Q4. Categorise the following datasets with respect to quantitative and qualitative data types:
+(i) Grading in exam: A+, A, B+, B, C+, C, D, E
+(ii) Colour of mangoes: yellow, green, orange, red
+(iii) Height data of a class: [178.9, 179, 179.5, 176, 177.2, 178.3, 175.8,...]
+(iv) Number of mangoes exported by a farm: [500, 600, 478, 672, ...]
+
+=  (i) Grading in exam: A+, A, B+, B, C+, C, D, E = Qualiative data 
+(ii) Colour of mangoes: yellow, green, orange, red = Qualitative data 
+(iii) Height data of a class: [178.9, 179, 179.5, 176, 177.2, 178.3, 175.8,...] = Quantitative data 
+(iv) Number of mangoes exported by a farm: [500, 600, 478, 672, ...] = quantitative data
+
+Q5. Explain the concept of levels of measurement and give an example of a variable for each level.
+=   Nominal level of measurement: Examples of nominal variables include gender (male, female), marital status (married, single, divorced), and types of fruit (apple, orange, banana) Ordinal level of measurement: Examples of ordinal variables include educational level (elementary, high school, college), job satisfaction (very dissatisfied, somewhat dissatisfied, neutral, somewhat satisfied, very satisfied), and military rank (private, corporal, sergeant, lieutenant, captain). Interval level of measurement: Examples of interval variables include temperature (measured in Celsius or Fahrenheit), calendar years (e.g. 2000, 2001, 2002), and IQ scores. Ratio level of measurement: Examples of ratio variables include height (measured in inches or centimeters), weight (measured in pounds or kilograms), and income (measured in dollars or euros).Nominal level of measurement: Examples of nominal variables include gender (male, female), marital status (married, single, divorced), and types of fruit (apple, orange, banana) Ordinal level of measurement: Examples of ordinal variables include educational level (elementary, high school, college), job satisfaction (very dissatisfied, somewhat dissatisfied, neutral, somewhat satisfied, very satisfied), and military rank (private, corporal, sergeant, lieutenant, captain). Interval level of measurement: Examples of interval variables include temperature (measured in Celsius or Fahrenheit), calendar years (e.g. 2000, 2001, 2002), and IQ scores. Ratio level of measurement: Examples of ratio variables include height (measured in inches or centimeters), weight (measured in pounds or kilograms), and income (measured in dollars or euros).
+
+Q6. Why is it important to understand the level of measurement when analyzing data? Provide anexample to illustrate your answer.
+=  It is important to understand the level of measurement when analyzing data because it determines the types of statistical analyses that can be performed on the data For example, suppose you are analyzing the effectiveness of two different pain medications for treating a particular condition. You collect data on the number of days each patient takes to experience relief from their symptoms. If you treat this variable as a nominal variable and categorize the days into groups (e.g. 1-3 days, 4-6 days, etc.), you would not be able to use statistical methods that require interval or ratio level data. This would limit the types of analyses you could perform and may not provide you with an accurate understanding of the effectiveness of the medications.
+	On the other hand, if you treat the number of days to relief as an interval or ratio variable, you could use more powerful statistical methods, such as t-tests or ANOVA, to analyze the data. This would allow you to more accurately compare the effectiveness of the two medications and draw meaningful conclusions.
+
+Q7. How nominal data type is different from ordinal data type.
+=  Nominal and ordinal data types are different in terms of the level of measurement they represent. Nominal data is a categorical data type, whereas ordinal data is an ordered data type.
+
+Q8. Which type of plot can be used to display data in terms of range?
+=   A box plot, also known as a box-and-whisker plot, can be used to display data in terms of range.
+
+Q9. Describe the difference between descriptive and inferential statistics. Give an example of each type of statistics and explain how they are used.
+=   Descriptive statistics involves the analysis and summary of data in order to describe and present it in a meaningful way. It focuses on organizing, summarizing, and presenting data in a manner that helps to understand its key features. Descriptive statistics do not involve making inferences or generalizations beyond the data being analyzed. It aims to provide a clear and concise summary of the data set.
+	Inferential statistics involves drawing conclusions or making inferences about a population based on a sample of data. It uses probability theory and statistical techniques to make predictions, generalize findings, or test hypotheses. Inferential statistics allow researchers to make statements beyond the specific data set they have analyzed, helping them to make
+
+Q10. What are some common measures of central tendency and variability used in statistics? Explain how each measure can be used to describe a dataset.
+=  Measures of Central Tendency:
+
+Mean: The mean, also known as the average, is calculated by summing all the values in a dataset and dividing by the total number of values. It represents the typical or central value of the dataset. The mean is sensitive to extreme values and can be influenced by outliers.
+
+Median: The median is the middle value when the dataset is arranged in ascending or descending order. If there is an even number of values, the median is the average of the two middle values. The median is less affected by extreme values and is a useful measure when dealing with skewed distributions or outliers.
+
+Mode: The mode is the value that appears most frequently in a dataset. Unlike the mean and median, the mode can be used for both numerical and categorical data. It provides information about the most common or popular value in the dataset.
+
+Measures of Variability:
+
+Range: The range is the simplest measure of variability and is calculated by subtracting the minimum value from the maximum value in a dataset. It provides an indication of the spread of the data but can be influenced by outliers.
+
+Variance: The variance measures the average squared deviation from the mean. It quantifies the dispersion of data points around the mean. A higher variance indicates a greater spread of values, while a lower variance suggests that the data points are closer to the mean.
+
+Standard Deviation: The standard deviation is the square root of the variance. It provides a measure of the average distance between each data point and the mean. Like the variance, a higher standard deviation indicates a larger spread of data points, while a lower standard deviation suggests a narrower range.
+
+
+
+
+
+
